@@ -1,7 +1,7 @@
 # Prediction-of-Post-Surgery-Life-Expectancy-in-Lung-Cancer-Patients
 
 ## Table of contents
-* [About Project](#general-info)
+* About Project
 * Abstract
 * Libraries and Modules
 
